@@ -1,0 +1,10 @@
+h1{
+    color: rgb(148, 87, 185);
+    text-align: center;
+}
+
+.Puntajes{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
