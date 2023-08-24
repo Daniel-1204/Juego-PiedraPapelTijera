@@ -10,8 +10,9 @@ h1{
 }
 
 .manos{
+    font-size: 90px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 
